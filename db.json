@@ -1,4 +1,5 @@
-[{"id":1,"name":"Flashpoint","beer_taps":4,"beer_types":1,"distance":49,"lat":4.5791946,"lon":13.6767958},
+{
+  locations: [{"id":1,"name":"Flashpoint","beer_taps":4,"beer_types":1,"distance":49,"lat":4.5791946,"lon":13.6767958},
 {"id":2,"name":"Kaymbo","beer_taps":8,"beer_types":6,"distance":33,"lat":-6.4222,"lon":106.0889},
 {"id":3,"name":"Kayveo","beer_taps":2,"beer_types":5,"distance":31,"lat":46.0082081,"lon":14.3592112},
 {"id":4,"name":"Trudoo","beer_taps":5,"beer_types":6,"distance":57,"lat":-6.5115909,"lon":105.652983},
@@ -8,3 +9,4 @@
 {"id":8,"name":"Buzzster","beer_taps":11,"beer_types":9,"distance":3,"lat":47.785421,"lon":-3.2602564},
 {"id":9,"name":"Youspan","beer_taps":1,"beer_types":8,"distance":52,"lat":-32.485681,"lon":-58.269543},
 {"id":10,"name":"Abatz","beer_taps":10,"beer_types":10,"distance":49,"lat":35.9581394,"lon":140.3212196}]
+}
